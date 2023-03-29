@@ -18,3 +18,4 @@ class neural_searcher:
         payloads = [r.payload for r in result]
 
         return payloads
+ 
